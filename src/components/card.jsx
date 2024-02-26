@@ -1,9 +1,9 @@
 import React from 'react'
 
-const card = () => {
+const card = ({ _id, name, prompt, photo }) => {
   return (
     <div>
-      
+      Card
     </div>
   )
 }
